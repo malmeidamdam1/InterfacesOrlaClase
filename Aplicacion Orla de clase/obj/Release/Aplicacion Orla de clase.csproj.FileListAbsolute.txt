@@ -20,3 +20,25 @@ C:\Users\alumMA\Asignaturas\Desarrollo Interfaces\Aplicacion Orla de clase\Aplic
 C:\Users\alumMA\Asignaturas\Desarrollo Interfaces\Aplicacion Orla de clase\Aplicacion Orla de clase\obj\Release\Aplicacion Orla de clase.csproj.CoreCompileInputs.cache
 C:\Users\alumMA\Asignaturas\Desarrollo Interfaces\Aplicacion Orla de clase\Aplicacion Orla de clase\obj\Release\Aplicacion Orla de clase.exe
 C:\Users\alumMA\Asignaturas\Desarrollo Interfaces\Aplicacion Orla de clase\Aplicacion Orla de clase\obj\Release\Aplicacion Orla de clase.pdb
+C:\Users\alumMA\Desktop\InterfacesOrlaClase\Aplicacion Orla de clase\bin\Release\Aplicacion Orla de clase.exe.config
+C:\Users\alumMA\Desktop\InterfacesOrlaClase\Aplicacion Orla de clase\bin\Release\Aplicacion Orla de clase.exe
+C:\Users\alumMA\Desktop\InterfacesOrlaClase\Aplicacion Orla de clase\bin\Release\Aplicacion Orla de clase.pdb
+C:\Users\alumMA\Desktop\InterfacesOrlaClase\Aplicacion Orla de clase\obj\Release\Aplicacion Orla de clase.csproj.AssemblyReference.cache
+C:\Users\alumMA\Desktop\InterfacesOrlaClase\Aplicacion Orla de clase\obj\Release\MainWindow.g.cs
+C:\Users\alumMA\Desktop\InterfacesOrlaClase\Aplicacion Orla de clase\obj\Release\OrlaMano.g.cs
+C:\Users\alumMA\Desktop\InterfacesOrlaClase\Aplicacion Orla de clase\obj\Release\Profile.g.cs
+C:\Users\alumMA\Desktop\InterfacesOrlaClase\Aplicacion Orla de clase\obj\Release\Puesto.g.cs
+C:\Users\alumMA\Desktop\InterfacesOrlaClase\Aplicacion Orla de clase\obj\Release\App.g.cs
+C:\Users\alumMA\Desktop\InterfacesOrlaClase\Aplicacion Orla de clase\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\alumMA\Desktop\InterfacesOrlaClase\Aplicacion Orla de clase\obj\Release\Aplicacion Orla de clase_MarkupCompile.cache
+C:\Users\alumMA\Desktop\InterfacesOrlaClase\Aplicacion Orla de clase\obj\Release\Aplicacion Orla de clase_MarkupCompile.lref
+C:\Users\alumMA\Desktop\InterfacesOrlaClase\Aplicacion Orla de clase\obj\Release\MainWindow.baml
+C:\Users\alumMA\Desktop\InterfacesOrlaClase\Aplicacion Orla de clase\obj\Release\OrlaMano.baml
+C:\Users\alumMA\Desktop\InterfacesOrlaClase\Aplicacion Orla de clase\obj\Release\Profile.baml
+C:\Users\alumMA\Desktop\InterfacesOrlaClase\Aplicacion Orla de clase\obj\Release\Puesto.baml
+C:\Users\alumMA\Desktop\InterfacesOrlaClase\Aplicacion Orla de clase\obj\Release\Aplicacion Orla de clase.g.resources
+C:\Users\alumMA\Desktop\InterfacesOrlaClase\Aplicacion Orla de clase\obj\Release\Aplicacion_Orla_de_clase.Properties.Resources.resources
+C:\Users\alumMA\Desktop\InterfacesOrlaClase\Aplicacion Orla de clase\obj\Release\Aplicacion Orla de clase.csproj.GenerateResource.cache
+C:\Users\alumMA\Desktop\InterfacesOrlaClase\Aplicacion Orla de clase\obj\Release\Aplicacion Orla de clase.csproj.CoreCompileInputs.cache
+C:\Users\alumMA\Desktop\InterfacesOrlaClase\Aplicacion Orla de clase\obj\Release\Aplicacion Orla de clase.exe
+C:\Users\alumMA\Desktop\InterfacesOrlaClase\Aplicacion Orla de clase\obj\Release\Aplicacion Orla de clase.pdb

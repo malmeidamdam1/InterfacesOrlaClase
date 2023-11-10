@@ -48,5 +48,11 @@ namespace Aplicacion_Orla_de_clase
             Profile win2 = new Profile("Aitor", "Cuadrado", "aitor@gmail.com", "src/Aitor.png");
             win2.Show();
         }
+
+
+
+
+
+
     }
 }
